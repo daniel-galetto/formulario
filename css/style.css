@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: rgba(38, 37, 37);
+    background-image: url("../img/fondo.jpg");
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    padding: 0 20%; 
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: 5%;
+    padding: 0 5%;
+}
+
+.container {
+    backdrop-filter: blur(10px); 
+    border: 1px solid white;
+    border-radius: 30px;
+}
